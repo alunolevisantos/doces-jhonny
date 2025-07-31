@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bolo2</title>
+    <link href="jhonny_1.css" rel="stylesheet"/>
+</head>
+<body>
+   <div class="div0">
+    <div> 
+        <span><img src="drinkjhonny.webp" class="imgtopo"></span></span>
+        <br>
+        <samp><h1>DRINK!</h1></samp>
+        <br>
+        <span>Nada melhor que um drink gelado pra relaxar!
+        <br><br>
+        <span>Tempo: 1 minuto</span>
+        <br>
+        <span>Dificuldade: Fácil</span>
+    </div>
+    
+    <div>
+<span><h1>Ingredientes</h1></span>
+
+<ul>
+<li>Ingredientes:
+1 limão fresco
+
+2 colheres de sopa de açúcar
+
+50 ml de cachaça (ou a gosto)
+
+Gelo a vontade
+</li>
+</ul>
+    </div>
+
+    <div>
+        <span><h1>Modo de preparo</h1></span>
+        <br>
+        <span>Corte o limão em pedacinhos e coloque no copo.
+
+Jogue o açúcar por cima.
+
+Amasse levemente o limão com o açúcar, só o suficiente para soltar o suco.
+
+Acrescente bastante gelo.
+
+Coloque a cachaça por cima.
+
+Misture com uma colher.
+
+Pronto, agora é só curtir!
+
+ </span>
+        <br><br>
+        <button class="botao1">VOLTAR</button>
+ </div>
+   </div>
+</body>
+</html>
