@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bolo2</title>
+    <link href="jhonny_1.css" rel="stylesheet"/>
+</head>
+<body>
+   <div class="div0">
+    <div> 
+        <span><img src="saudaveljhonny.jpg" class="imgtopo"></span></span>
+        <br>
+        <samp><h1>Comida Saudavel</h1></samp>
+        <br>
+        <span>Simples, nutritivo e delicioso!
+        <br><br>
+        <span>Tempo: 4 minuto</span>
+        <br>
+        <span>Dificuldade: Fácil</span>
+    </div>
+    
+    <div>
+<span><h1>Ingredientes</h1></span>
+
+<ul>
+<li>1 batata-doce média cortada em rodelas ou cubos
+
+1 cenoura cortada em tiras
+
+1 abobrinha cortada em meia-lua
+
+1/2 cebola roxa fatiada (opcional)
+
+2 ovos
+
+Azeite de oliva
+
+Sal, pimenta-do-reino e ervas secas (orégano, alecrim ou tomilho)
+</li>
+</ul>
+    </div>
+
+    <div>
+        <span><h1>Modo de preparo</h1></span>
+        <br>
+        <span>Pré-aqueça o forno a 200°C.
+
+Em uma assadeira, coloque os legumes e regue com azeite. Tempere com sal, pimenta e ervas.
+
+Misture bem e leve ao forno por cerca de 30 minutos, mexendo na metade do tempo, até dourarem.
+
+Enquanto isso, cozinhe os ovos em água fervente por 10 minutos.
+
+Descasque e corte os ovos ao meio.
+
+Monte o prato com os legumes assados e os ovos por cima.
+
+ </span>
+        <br><br>
+        <button class="botao1">VOLTAR</button>
+ </div>
+   </div>
+</body>
+</html>
