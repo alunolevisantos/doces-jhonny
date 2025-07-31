@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bolo2</title>
+    <link href="meu_projeto3.css" rel="stylesheet"/>
+</head>
+<body>
+   <div class="div0">
+    <div> 
+        <span><img src="doces1.jpg" class="imgtopo"></span></span>
+        <br>
+        <samp><h1>Doces de brigadeiro</h1></samp>
+        <br>
+        <span>O doce perfeito para você degustar. É muito fácil e ainda por cima fica maravilhoso, com certeza vai impressionar. Faz e depois me conta o que achou!</span>
+        <br><br>
+        <span>Tempo: 40 minutos </span>
+        <br>
+        <span>Dificuldade: Fácil</span>
+    </div>
+    
+    <div>
+<span><h1>Ingredientes</h1></span>
+
+<ul>
+<li>Ingredientes:
+1 lata de leite condensado (aprox. 395g) </li>
+  <li>1 colher de sopa de manteiga (ou margarina)</li>
+   <li>2 colheres de sopa de chocolate em pó (ou achocolatado, mas ficará mais doce)</li>
+   <li>Chocolate granulado (para enrolar)</li>
+   <li>Manteiga para untar as mãos (opcional, se for enrolar)
+</li>
+</ul>
+    </div>
+
+    <div>
+        <span><h1>Modo de preparo</h1></span>
+        <br>
+        <span>Misture os ingredientes:
+Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.
+
+Cozinhe:
+Leve ao fogo baixo, mexendo sempre com uma colher de pau ou espátula.
+Mexa até que o brigadeiro comece a desgrudar do fundo da panela — isso leva cerca de 10 a 15 minutos.
+
+Esfriar:
+Despeje o brigadeiro em um prato untado e deixe esfriar completamente.
+
+Enrolar (opcional):
+Unte as mãos com um pouquinho de manteiga, faça bolinhas com o doce e passe-as no chocolate granulado.
+
+Servir:
+Coloque os brigadeiros em forminhas de papel e sirva!
+
+ </span>
+        <br><br>
+        <button class="botao1">VOLTAR</button>
+ </div>
+   </div>
+</body>
+</html>
