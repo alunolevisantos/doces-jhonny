@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bolo2</title>
+    <link href="jhonny_1.css" rel="stylesheet"/>
+</head>
+<body>
+   <div class="div0">
+    <div> 
+        <span><img src="salgadosjhonny.jpg" class="imgtopo"></span></span>
+        <br>
+        <samp><h1>SAlGADOS</h1></samp>
+        <br>
+        <span>Coxinha quentinha, crocante e cheia de sabor, feita com muito carinho pra tornar o dia ainda mais gostoso!
+        <br><br>
+        <span>Tempo: 40 minutos </span>
+        <br>
+        <span>Dificuldade: Fácil</span>
+    </div>
+    
+    <div>
+<span><h1>Ingredientes</h1></span>
+
+<ul>
+<li>Massa:
+
+2 xícaras de caldo de galinha (pode usar o líquido do cozimento do frango)
+
+2 xícaras de farinha de trigo
+
+2 colheres de sopa de manteiga ou margarina
+
+Sal a gosto
+
+Recheio:
+
+500g de frango desfiado
+
+1/2 cebola picada
+
+1 dente de alho amassado
+
+2 colheres de sopa de óleo ou azeite
+
+Sal, pimenta e cheiro-verde a gosto
+
+Para empanar:
+
+2 ovos batidos
+
+Farinha de rosca
+
+Para fritar:
+
+Óleo suficiente para fritar
+</li>
+</ul>
+    </div>
+
+    <div>
+        <span><h1>Modo de preparo</h1></span>
+        <br>
+        <span>Faça o recheio:
+Refogue a cebola e o alho no óleo até ficarem dourados.
+Acrescente o frango desfiado e tempere com sal, pimenta e cheiro-verde. Misture bem e reserve.
+
+Prepare a massa:
+Em uma panela, coloque o caldo de galinha, manteiga e sal e leve para ferver.
+Assim que ferver, abaixe o fogo e junte a farinha de trigo de uma vez, mexendo rápido para não formar grumos.
+Continue mexendo até que a massa se solte do fundo da panela. Desligue o fogo.
+
+Modele as coxinhas:
+Pegue uma porção da massa, faça uma bolinha, abra na palma da mão formando um disco.
+Coloque o recheio no centro e feche, modelando no formato de coxinha (gotinha).
+
+Empane:
+Passe as coxinhas nos ovos batidos e depois na farinha de rosca.
+
+Frite:
+Aqueça bastante óleo em uma panela funda e frite as coxinhas até ficarem douradas. Escorra em papel toalha.
+
+ </span>
+        <br><br>
+        <button class="botao1">VOLTAR</button>
+ </div>
+   </div>
+</body>
+</html>
